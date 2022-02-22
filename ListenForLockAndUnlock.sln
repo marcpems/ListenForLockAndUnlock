@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListenForLockAndUnlock", "ListenForLockAndUnlock.vcxproj", "{3793C178-A4DA-49DF-923A-12816E06875D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Debug|ARM64.Build.0 = Debug|ARM64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Debug|x64.ActiveCfg = Debug|x64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Debug|x64.Build.0 = Debug|x64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Debug|x86.ActiveCfg = Debug|Win32
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Debug|x86.Build.0 = Debug|Win32
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Release|ARM64.ActiveCfg = Release|ARM64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Release|ARM64.Build.0 = Release|ARM64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Release|x64.ActiveCfg = Release|x64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Release|x64.Build.0 = Release|x64
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Release|x86.ActiveCfg = Release|Win32
+		{3793C178-A4DA-49DF-923A-12816E06875D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {522C181A-329C-4A5A-ADF3-260CC9B70A5C}
+	EndGlobalSection
+EndGlobal
